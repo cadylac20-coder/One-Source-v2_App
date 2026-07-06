@@ -1,0 +1,1 @@
+import{e0 as e}from"./index-Cd4RI4Id.js";import{F as i}from"./FlightSearchComponent-H0x6n8e-.js";import"./AppAsyncSelect-DQdL7XdC.js";import"./ReactSlider-Bj3nKDBQ.js";function l(){return e.jsx("div",{className:"flight-landing-page flex-1",children:e.jsx("div",{className:"flight-landing-page_container",children:e.jsx(i,{})})})}export{l as default};
